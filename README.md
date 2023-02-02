@@ -113,4 +113,6 @@ Mainly performed using Matplotlib and Seaborn library and the following graph an
 (2) Choosing appropriate visualization techniques to use was difficult.
 (3) A lot of null values were there in the dataset.
 
+```
 https://kumarmhaske.github.io/EDA_Hotel_Bookings_Data_Analysis/  Tap here for a quick preview.
+
